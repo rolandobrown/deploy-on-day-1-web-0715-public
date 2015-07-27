@@ -3,9 +3,9 @@ Github: http://github.com/rolandobrown
 Blog: http://rolandobrown.tumblr.com/#blog
 Tagline: You Grow. We all grow. We're made to grow. 
 
-Profile Picture: https://raw.githubusercontent.com/rolandobrown/deploy-on-day-1-web-0715/master/img/students/rolandobrown.jpeg?token=AD24qL0FOnSprpbcgGJevg1v8JFt7mG5ks5Vv3LbwA%3D%3D
+Profile Picture: https://github.com/rolandobrown/deploy-on-day-1-web-0715/blob/master/img/students/student_rolandobrown_index_profile.jpeg?raw=true
 
-Background: http://static.tumblr.com/9910aef4227379217b922cfd686956f2/j8bcak3/w1smp3yjd/tumblr_static_yoda_two.jpg
+Background: https://github.com/rolandobrown/deploy-on-day-1-web-0715/blob/master/img/students/student_rolandobrown_background.jpg?raw=true
 
 Treehouse Account: http://teamtreehouse.com/rolandobrown
 CoderWall Account: https://coderwall.com/rolandobrown
